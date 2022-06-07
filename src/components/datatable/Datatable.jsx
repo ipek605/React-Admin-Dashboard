@@ -36,7 +36,6 @@ const Datatable = () => {
         pageSize={8}
         rowsPerPageOptions={[8]}
         checkboxSelection
-        style={{color:"#999"}}
       />
     </div>
   );
